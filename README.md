@@ -21,7 +21,7 @@ O projeto é estruturado em 3 questões, onde:
 # Como executar
 
 - Para a primeira questão, executar o arquivo Case FortBrasil.html
-- Para a segunda questão, executar o arquivo Case FortBrasil-Modelo.html e PowerBI
+- Para a segunda questão, executar o arquivo Case FortBrasil-Modelo.html e Case.pbx
 - Para a terceira questão, executar o arquivo case_sql.sql
 
 
